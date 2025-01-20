@@ -1,0 +1,121 @@
+.parentaqua{
+    background-color: aqua;
+    height: 500;
+    width: 1250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.green1{
+    height: 600px;
+    width: 300px;
+    
+    background-color: greenyellow;
+}
+.green2{
+    height: 600px;
+    width: 700px;
+    
+    background-color: greenyellow;
+}
+.b1{
+    height: 40px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b2{
+    height: 40px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b3{
+    height: 40px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b4{
+    height: 40px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b5{
+    height: 40px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b6{
+    height: 40px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.b7{
+    height: 40px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.brown{
+    height: 250px;
+    width: 600px;
+    background-color: brown;
+    margin-left: 60px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.black1{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+}
+.black2{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+}.black3{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+}.black4{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+}
+.brown2{
+    height: 250px;
+    width: 600px;
+    background-color: rgb(170, 81, 96);
+    margin-left: 60px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.orange1{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(58, 38, 0);
+    
+
+}
+.orange2{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(56, 42, 4);
+   
+}
